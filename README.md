@@ -33,7 +33,7 @@ The dataset contains approximately **9,994 retail transactions** including:
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](Images/dashboard_preview.png)
 
 ---
 
@@ -87,3 +87,4 @@ A small number of products generate a large portion of total revenue, with **Can
 ## Author
 
 Manideep Kotha
+
